@@ -41,7 +41,7 @@ Be Nice. Matz Is Nice So We Are Nice (MINSWAN).
 ## Be Nice (British Edition)
 
 ```
-Keep Calm. Be Nice. Don't Panic. Be Nice. 
+Don't Panic. Be Nice. Keep Calm. Be Nice.
 ```
 
 
