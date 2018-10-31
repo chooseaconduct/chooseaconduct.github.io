@@ -59,7 +59,7 @@ Do not do unto others as you would that they should do unto you. Their tastes ma
 
 
 
-## Jesus <3 Loves You
+## Jesus <3 You
 
 ```
 - Thou shalt have no other gods before me	
