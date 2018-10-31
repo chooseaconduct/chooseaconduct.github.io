@@ -2,7 +2,7 @@
 # Choose-A-Conduct
 
 
-Help to choose a code of conduct.  Cut and paste. Or copy the CONDUCT.md document into your project.
+Help to choose a code of conduct.  Cut and paste. Or copy the CODE_OF_CONDUCT.md document into your project.
 
 
 
