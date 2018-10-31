@@ -15,14 +15,6 @@ Be A Mensch.
 [What's a Mensch?](https://en.wikipedia.org/wiki/Mensch)
 
 
-## How's My Conducting? 
-
-```
-How's my conducting?  Call 1-800-MENSCH
-```
-
-Inspired by ["How's my driving"](https://en.wikipedia.org/wiki/%22How%27s_my_driving%3F%22_sign).
-
 
 ## Be Nice
 
@@ -77,5 +69,13 @@ Do not do unto others as you would that they should do unto you. Their tastes ma
 ```
 
 
+
+## How's My Conducting? 
+
+```
+How's my conducting?  Call 1-800-MENSCH
+```
+
+Inspired by ["How's my driving"](https://en.wikipedia.org/wiki/%22How%27s_my_driving%3F%22_sign).
 
 
