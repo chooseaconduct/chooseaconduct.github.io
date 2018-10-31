@@ -41,20 +41,39 @@ Be Nice. Matz Is Nice So We Are Nice (MINSWAN).
 ## Be Nice (British Edition)
 
 ```
-Don't Panic. Be Nice. Keep Calm. Be Nice.
+Keep Calm. Be Nice. Don't Panic. Be Nice. 
 ```
 
 
 ## Golden Rule
 
 ```
+Treat others as you self would wish to be treated. 
+```
 
+## Golden Rule (Bernard Shaw Edition)
+
+```
+Do not do unto others as you would that they should do unto you. Their tastes may be different.
 ```
 
 
-## Jesus <3 Love You
+
+## Jesus <3 Loves You
 
 ```
+- Thou shalt have no other gods before me	
+- Thou shalt not make unto thee any graven image
+- Thou shalt not take the name of the Lord thy God in vain
+- Remember the sabbath day, to keep it holy
+- Honour thy father and thy mother
+- Thou shalt not kill
+- Thou shalt not commit adultery
+- Thou shalt not steal
+- Thou shalt not bear false witness against thy neighbour
+- Thou shalt not covet (neighbour's house)
+- Thou shalt not covet (neighbour's wife)
+- Thou shalt not covet (neighbour's slaves, animals, or anything else)
 ```
 
 
