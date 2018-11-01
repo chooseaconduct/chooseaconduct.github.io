@@ -98,12 +98,12 @@ Inspired by ["How's my driving"](https://en.wikipedia.org/wiki/%22How%27s_my_dri
 
 ## Frequently Asked Questions (F.A.Q.) and Answers
 
-### Q: What's your point?
+### Q: What's the point?
 
 **A**: If you (or the "social jacobin revolutionaries / warriors") 
 try to enforce your utopia by self-appointed, self-righteous virtue committees 
 with threats and execution 
-of social exclusion and personal destruction, than
+of social exclusion (and personal destruction), than
 history tell us how that ends - read up on tyranny
 (and why free speech is not something to give up lightly.)
 
