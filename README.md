@@ -38,7 +38,7 @@ Be Nice.
 ### Be Nice (Ruby Edition)
 
 ```
-Be Nice. Matz Is Nice And So We Are Nice (MINASWAN).
+Be Nice. Matz Is Nice, So We Are Nice. (MINSWAN)
 ```
 
 
