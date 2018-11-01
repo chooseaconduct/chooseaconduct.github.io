@@ -16,7 +16,7 @@ Be A Mensch.
 
 
 
-## Be A Mensch (Latin Version)
+## Be A Mensch (Latin Edition)
 
 ```
 Humanitas. Virtus.
