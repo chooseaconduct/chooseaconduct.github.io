@@ -123,7 +123,7 @@ of social exclusion (and personal destruction). How welcoming. A good argument, 
 and a persona non grata, a pariah and social outcast.
 History tells us how that ends - read up on tyranny or on doublespeak 
 (and why free speech is not something to give up lightly.) 
-Is the right to criticize and call the code of conduct bullshit or to call out bullshitters guaranteed in the charter? 
+Is the right to criticize and call the code of conduct bullshit or to call out bullshitters guaranteed in the happy la-la-land charter? 
 With "human nature is what it is" will misuse for personal vendettas surprise you or that power corrupts?
 
 The "enforcement process" for the most widely adopted code of conduct reads:
