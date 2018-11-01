@@ -120,7 +120,7 @@ Inspired by ["How's my driving"](https://en.wikipedia.org/wiki/%22How%27s_my_dri
 try to enforce your utopia by self-appointed, self-righteous virtue committees 
 with threats and execution 
 of social exclusion (and personal destruction), than
-history tell us how that ends - read up on tyranny
+history tells us how that ends - read up on tyranny
 (and why free speech is not something to give up lightly.)
 
 Remember - Love (not fear) conquers all. 
