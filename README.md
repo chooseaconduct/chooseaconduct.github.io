@@ -20,11 +20,10 @@ Be A Mensch.
 ### Be A Mensch (Latin Edition)
 
 ```
-Humanitas. Virtus.
+Humanitas.
 ```
 
 [What's Humanitas?](https://en.wikipedia.org/wiki/Humanitas)
-[What's Virtus?](https://en.wikipedia.org/wiki/Virtue#Roman_virtues)
 
 
 
@@ -126,5 +125,5 @@ History tells us how that ends - read up on tyranny
 
 Thus, Choose-A-Conduct offers alternative code of conducts. Or inspires you to write your own. 
 Remember - Love (not fear) conquers all.
-Be the change you want to see in the world. Learn to forgive. Be a mensch (or try to.) Humanitas. Virtus.
+Be the change you want to see in the world. Learn to forgive. Be a mensch (or try to.) Humanitas.
  
