@@ -16,6 +16,17 @@ Be A Mensch.
 
 
 
+## Be A Mensch (Latin Version)
+
+```
+Humanitas. Virtus.
+```
+
+[What's Humanitas?](https://en.wikipedia.org/wiki/Humanitas)
+[What's Virtus?](https://en.wikipedia.org/wiki/Virtue#Roman_virtues)
+
+
+
 ## Be Nice
 
 ```
@@ -23,11 +34,13 @@ Be Nice.
 ```
 
 
+
 ## Be Nice (Ruby Edition)
 
 ```
-Be Nice. Matz Is Nice So We Are Nice (MINSWAN).
+Be Nice. Matz Is Nice And So We Are Nice (MINASWAN).
 ```
+
 
 
 ## Be Nice (British Edition)
