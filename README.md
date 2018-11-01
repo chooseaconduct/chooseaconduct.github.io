@@ -116,14 +116,20 @@ Inspired by ["How's my driving"](https://en.wikipedia.org/wiki/%22How%27s_my_dri
 ### Q: What's the point? That's the whole code? Three words? Where's the enforcement procedure and process? 
 
 **A**: Most code of conducts are page long political manifestos
-by "social jacobin revolutionaries / warriors"
+by "social jacobin (*) revolutionaries / warriors"
 that try to enforce an utopia by self-appointed, self-righteous virtue committees 
 with threats and execution 
-of social exclusion (and personal destruction). 
-History tells us how that ends - read up on tyranny
+of social exclusion (and personal destruction).
+History tells us how that ends - read up on tyranny 
 (and why free speech is not something to give up lightly.) 
+Is the right to criticize and call the code of conduct bullshit or to call out bullshitters guaranteed in the charter? 
+With "human nature is what it is" will misuse for personal vendettas surprise you?
+
 
 Thus, Choose-A-Conduct offers alternative code of conducts. Or inspires you to write your own. 
 Remember - Love (not fear) conquers all.
 Be the change you want to see in the world. Learn to forgive. Be a mensch (or try to.) Humanitas.
- 
+
+
+---
+*: jacobin -  radical, left-wing revolutionary politics  especially when it exhibits dogmatism and violent repression
