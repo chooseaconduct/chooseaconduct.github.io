@@ -108,5 +108,5 @@ history tell us how that ends - read up on tyranny
 (and why free speech is not something to give up lightly.)
 
 Remember - Love (not fear) conquers all. 
-Be the change you want to see in the world. Learn to forgive. Be a mensch.
+Be the change you want to see in the world. Learn to forgive. Be a mensch (or try to.) Humanitas. Virtus.
  
