@@ -67,7 +67,7 @@ Do not do unto others as you would that they should do unto you. Their tastes ma
 ### Respect
 
 ```
-Respect. No racism.
+Respect. No to racism.
 ```
 
 Inspired by [Respect - the European football association campaign](https://en.wikipedia.org/wiki/Respect_(UEFA_campaign)).
