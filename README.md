@@ -6,7 +6,8 @@ Help to choose a code of conduct.  Cut and paste. Or copy the CODE_OF_CONDUCT.md
 
 
 
-## Be A Mensch
+
+### Be A Mensch
 
 ```
 Be A Mensch. 
@@ -16,7 +17,7 @@ Be A Mensch.
 
 
 
-## Be A Mensch (Latin Edition)
+### Be A Mensch (Latin Edition)
 
 ```
 Humanitas. Virtus.
@@ -27,7 +28,7 @@ Humanitas. Virtus.
 
 
 
-## Be Nice
+### Be Nice
 
 ```
 Be Nice. 
@@ -35,7 +36,7 @@ Be Nice.
 
 
 
-## Be Nice (Ruby Edition)
+### Be Nice (Ruby Edition)
 
 ```
 Be Nice. Matz Is Nice And So We Are Nice (MINASWAN).
@@ -43,20 +44,20 @@ Be Nice. Matz Is Nice And So We Are Nice (MINASWAN).
 
 
 
-## Be Nice (British Edition)
+### Be Nice (British Edition)
 
 ```
 Don't Panic. Be Nice. Keep Calm. Be Nice.
 ```
 
 
-## Golden Rule
+### Golden Rule
 
 ```
 Treat others as you self would wish to be treated. 
 ```
 
-## Golden Rule (Bernard Shaw Edition)
+### Golden Rule (Bernard Shaw Edition)
 
 ```
 Do not do unto others as you would that they should do unto you. Their tastes may be different.
@@ -64,7 +65,7 @@ Do not do unto others as you would that they should do unto you. Their tastes ma
 
 
 
-## Jesus <3 You
+### Jesus <3 You
 
 ```
 - Thou shalt have no other gods before me	
@@ -83,7 +84,7 @@ Do not do unto others as you would that they should do unto you. Their tastes ma
 
 
 
-## How's My Conducting? 
+### How's My Conducting? 
 
 ```
 How's my conducting?  Call 1-800-MENSCH
@@ -92,3 +93,20 @@ How's my conducting?  Call 1-800-MENSCH
 Inspired by ["How's my driving"](https://en.wikipedia.org/wiki/%22How%27s_my_driving%3F%22_sign).
 
 
+
+
+
+## Frequently Asked Questions (F.A.Q.) and Answers
+
+### Q: What's your point?
+
+**A**: If you (or the "social jacobin revolutionaries / warriors") 
+try to enforce your utopia by self-appointed, self-righteous virtue committees 
+with threats and execution 
+of social exclusion and personal destruction, than
+history tell us how that ends - read up on tyranny
+(and why free speech is not something to give up lightly.)
+
+Remember - Love (not fear) conquers all. 
+Be the change you want to see in the world. Learn to forgive. Be a mensch.
+ 
