@@ -114,7 +114,7 @@ Inspired by ["How's my driving"](https://en.wikipedia.org/wiki/%22How%27s_my_dri
 
 ## Frequently Asked Questions (F.A.Q.) and Answers
 
-### Q: What's the point? Where's the code? Three words?
+### Q: What's the point? That's the whole code? Three words? Where's the enforcement procedure and process? 
 
 **A**: Most code of conducts are page long political manifestos
 by "social jacobin revolutionaries / warriors"
