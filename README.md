@@ -116,20 +116,35 @@ Inspired by ["How's my driving"](https://en.wikipedia.org/wiki/%22How%27s_my_dri
 ### Q: What's the point? That's the whole code? Three words? Where's the enforcement procedure and process? 
 
 **A**: Most code of conducts are page long political manifestos
-by "social jacobin (*) revolutionaries / warriors"
+by "social jacobin revolutionaries / warriors"
 that try to enforce an utopia by self-appointed, self-righteous virtue committees 
 with threats and execution 
-of social exclusion (and personal destruction).
-History tells us how that ends - read up on tyranny 
+of social exclusion (and personal destruction). How welcoming. A good argument, a little polemic and you're branded "unprofessional" 
+and a persona non grata, a pariah and social outcast.
+History tells us how that ends - read up on tyranny or on doublespeak 
 (and why free speech is not something to give up lightly.) 
 Is the right to criticize and call the code of conduct bullshit or to call out bullshitters guaranteed in the charter? 
-With "human nature is what it is" will misuse for personal vendettas surprise you?
+With "human nature is what it is" will misuse for personal vendettas surprise you or that power corrupts?
+
+The "enforcement process" for the most widely adopted code of conduct reads:
+
+> Instances of abusive, harassing, or otherwise unacceptable behavior may be
+> reported by contacting the project team at [INSERT EMAIL ADDRESS]. All
+> complaints will be reviewed and investigated and will result in a response that
+> is deemed necessary and appropriate to the circumstances. The project team is
+> obligated to maintain confidentiality with regard to the reporter of an incident.
+> Further details of specific enforcement policies may be posted separately.
+>
+> Project maintainers who do not follow or enforce the Code of Conduct in good
+> faith may face temporary or permanent repercussions as determined by other
+> members of the project's leadership.
+
+The code itself threatens the self-appointed, self-righteous virtue committees 
+with threats. How circular. Quis custodiet ipsos custodes? Who will guard the guards themselves?
 
 
-Thus, Choose-A-Conduct offers alternative code of conducts. Or inspires you to write your own. 
+
+Thus, if you get bullied into adopting a welcoming code of conduct, Choose-A-Conduct offers many alternatives.  
+Or inspires you to write your own. 
 Remember - Love (not fear) conquers all.
 Be the change you want to see in the world. Learn to forgive. Be a mensch (or try to.) Humanitas.
-
-
----
-*: jacobin -  radical, left-wing revolutionary politics  especially when it exhibits dogmatism and violent repression
