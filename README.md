@@ -64,6 +64,22 @@ Do not do unto others as you would that they should do unto you. Their tastes ma
 ```
 
 
+### Respect
+
+```
+Respect. No racism.
+```
+
+Inspired by [Respect - the European football association campaign](https://en.wikipedia.org/wiki/Respect_(UEFA_campaign)).
+
+
+### Love
+
+```
+Make Love, Not War.
+```
+
+
 
 ### Jesus <3 You
 
