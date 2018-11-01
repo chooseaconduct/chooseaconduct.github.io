@@ -114,15 +114,17 @@ Inspired by ["How's my driving"](https://en.wikipedia.org/wiki/%22How%27s_my_dri
 
 ## Frequently Asked Questions (F.A.Q.) and Answers
 
-### Q: What's the point?
+### Q: What's the point? Where's the code? Three words?
 
-**A**: If you (or the "social jacobin revolutionaries / warriors") 
-try to enforce your utopia by self-appointed, self-righteous virtue committees 
+**A**: Most code of conducts are page long political manifestos
+by "social jacobin revolutionaries / warriors"
+that try to enforce an utopia by self-appointed, self-righteous virtue committees 
 with threats and execution 
-of social exclusion (and personal destruction), than
-history tells us how that ends - read up on tyranny
-(and why free speech is not something to give up lightly.)
+of social exclusion (and personal destruction). 
+History tells us how that ends - read up on tyranny
+(and why free speech is not something to give up lightly.) 
 
-Remember - Love (not fear) conquers all. 
+Thus, Choose-A-Conduct offers alternative code of conducts. Or inspires you to write your own. 
+Remember - Love (not fear) conquers all.
 Be the change you want to see in the world. Learn to forgive. Be a mensch (or try to.) Humanitas. Virtus.
  
