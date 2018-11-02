@@ -120,32 +120,14 @@ Inspired by ["How's my driving"](https://en.wikipedia.org/wiki/%22How%27s_my_dri
 by "social jacobin revolutionaries / warriors"
 that try to enforce a happy la-la-land utopia by self-appointed, self-righteous virtue committees 
 with threats and execution 
-of social exclusion (and personal destruction). How welcoming. How nice. A good argument, a little polemic and you're branded "unprofessional" 
+of social exclusion (and personal destruction). How welcoming. A good argument, a little polemic and you're branded "unprofessional" 
 and a persona non grata, a pariah and social outcast.
 History tells us how that ends - read up on tyranny or on doublespeak 
 (and why free speech is not something to give up lightly.) 
-Is the right to criticize and call the code of conduct bullshit or to call out bullshitters guaranteed in the happy la-la-land charter? 
 With "human nature is what it is" will misuse for personal vendettas surprise you or that power corrupts?
 
-The "enforcement process" for the most widely adopted code of conduct reads:
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be
-> reported by contacting the project team at [INSERT EMAIL ADDRESS]. All
-> complaints will be reviewed and investigated and will result in a response that
-> is deemed necessary and appropriate to the circumstances. The project team is
-> obligated to maintain confidentiality with regard to the reporter of an incident.
-> Further details of specific enforcement policies may be posted separately.
->
-> Project maintainers who do not follow or enforce the code of conduct in good
-> faith may face temporary or permanent repercussions as determined by other
-> members of the project's leadership.
-
-The code itself threatens the self-appointed, self-righteous virtue committees 
-with threats. How circular. Quis custodiet ipsos custodes? Who will guard the guards themselves?
-
-
-
-Thus, if you get bullied into adopting a welcoming code of conduct, Choose-A-Conduct offers many alternatives.  
+Thus, if you're looking into adopting a welcoming code of conduct, Choose-A-Conduct offers many alternatives.  
 Or inspires you to write your own. 
 Remember - Love (not fear) conquers all.
 Be the change you want to see in the world. Learn to forgive. Be a mensch (or try to.) Humanitas.
