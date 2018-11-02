@@ -113,13 +113,14 @@ Inspired by ["How's my driving"](https://en.wikipedia.org/wiki/%22How%27s_my_dri
 
 ## Frequently Asked Questions (F.A.Q.) and Answers
 
+
 ### Q: What's the point? That's the whole code? Three words? Where's the enforcement procedure and process? 
 
 **A**: Most code of conducts are page long political manifestos
 by "social jacobin revolutionaries / warriors"
-that try to enforce an utopia by self-appointed, self-righteous virtue committees 
+that try to enforce a happy la-la-land utopia by self-appointed, self-righteous virtue committees 
 with threats and execution 
-of social exclusion (and personal destruction). How welcoming. A good argument, a little polemic and you're branded "unprofessional" 
+of social exclusion (and personal destruction). How welcoming. How nice. A good argument, a little polemic and you're branded "unprofessional" 
 and a persona non grata, a pariah and social outcast.
 History tells us how that ends - read up on tyranny or on doublespeak 
 (and why free speech is not something to give up lightly.) 
@@ -148,3 +149,4 @@ Thus, if you get bullied into adopting a welcoming code of conduct, Choose-A-Con
 Or inspires you to write your own. 
 Remember - Love (not fear) conquers all.
 Be the change you want to see in the world. Learn to forgive. Be a mensch (or try to.) Humanitas.
+
