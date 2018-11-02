@@ -13,6 +13,12 @@ Help to choose a code of conduct.  Cut and paste. Or copy the CODE_OF_CONDUCT.md
 Be A Mensch. 
 ```
 
+Downloads: [Text Version (.TXT)](https://github.com/chooseaconduct/chooseaconduct.github.io/raw/master/mensch/CODE_OF_CONDUCT.txt)
+[Markdown Version (.MD)](https://github.com/chooseaconduct/chooseaconduct.github.io/raw/master/mensch/CODE_OF_CONDUCT.md)
+
+
+Notes:
+
 [What's a Mensch?](https://en.wikipedia.org/wiki/Mensch)
 
 
@@ -22,6 +28,8 @@ Be A Mensch.
 ```
 Humanitas.
 ```
+
+Notes:
 
 [What's Humanitas?](https://en.wikipedia.org/wiki/Humanitas)
 
@@ -40,6 +48,10 @@ Be Nice.
 ```
 Be Nice. Matz Is Nice, So We Are Nice. (MINSWAN)
 ```
+
+Downloads: [Text Version (.TXT)](https://github.com/chooseaconduct/chooseaconduct.github.io/raw/master/minswan/CODE_OF_CONDUCT.txt)
+[Markdown Version (.MD)](https://github.com/chooseaconduct/chooseaconduct.github.io/raw/master/minswan/CODE_OF_CONDUCT.md)
+
 
 
 
