@@ -16,8 +16,7 @@ Be A Mensch.
 Downloads: [Text Version (.TXT)](https://github.com/chooseaconduct/chooseaconduct.github.io/raw/master/mensch/CODE_OF_CONDUCT.txt),
 [Markdown Version (.MD)](https://github.com/chooseaconduct/chooseaconduct.github.io/raw/master/mensch/CODE_OF_CONDUCT.md)
 
-
----
+____
 Notes: [What's a Mensch?](https://en.wikipedia.org/wiki/Mensch)
 
 
@@ -32,7 +31,7 @@ Downloads: [Text Version (.TXT)](https://github.com/chooseaconduct/chooseaconduc
 [Markdown Version (.MD)](https://github.com/chooseaconduct/chooseaconduct.github.io/raw/master/humanitas/CODE_OF_CONDUCT.md)
 
 
----
+____
 Notes: [What's Humanitas?](https://en.wikipedia.org/wiki/Humanitas)
 
 
@@ -83,7 +82,7 @@ Do not do unto others as you would that they should do unto you. Their tastes ma
 Respect. No to racism.
 ```
 
----
+____
 Notes: Inspired by [Respect - the European football association campaign](https://en.wikipedia.org/wiki/Respect_(UEFA_campaign)).
 
 
@@ -120,8 +119,7 @@ Make Love, Not War.
 How's my conducting?  Call 1-800-MENSCH
 ```
 
-
----
+____
 Notes: Inspired by ["How's my driving"](https://en.wikipedia.org/wiki/%22How%27s_my_driving%3F%22_sign).
 
 
