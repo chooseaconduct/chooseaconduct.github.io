@@ -13,13 +13,12 @@ Help to choose a code of conduct.  Cut and paste. Or copy the CODE_OF_CONDUCT.md
 Be A Mensch. 
 ```
 
-Downloads: [Text Version (.TXT)](https://github.com/chooseaconduct/chooseaconduct.github.io/raw/master/mensch/CODE_OF_CONDUCT.txt)
+Downloads: [Text Version (.TXT)](https://github.com/chooseaconduct/chooseaconduct.github.io/raw/master/mensch/CODE_OF_CONDUCT.txt),
 [Markdown Version (.MD)](https://github.com/chooseaconduct/chooseaconduct.github.io/raw/master/mensch/CODE_OF_CONDUCT.md)
 
 
-Notes:
-
-[What's a Mensch?](https://en.wikipedia.org/wiki/Mensch)
+---
+Notes: [What's a Mensch?](https://en.wikipedia.org/wiki/Mensch)
 
 
 
@@ -29,9 +28,12 @@ Notes:
 Humanitas.
 ```
 
-Notes:
+Downloads: [Text Version (.TXT)](https://github.com/chooseaconduct/chooseaconduct.github.io/raw/master/humanitas/CODE_OF_CONDUCT.txt),
+[Markdown Version (.MD)](https://github.com/chooseaconduct/chooseaconduct.github.io/raw/master/humanitas/CODE_OF_CONDUCT.md)
 
-[What's Humanitas?](https://en.wikipedia.org/wiki/Humanitas)
+
+---
+Notes: [What's Humanitas?](https://en.wikipedia.org/wiki/Humanitas)
 
 
 
@@ -49,7 +51,7 @@ Be Nice.
 Be Nice. Matz Is Nice, So We Are Nice. (MINSWAN)
 ```
 
-Downloads: [Text Version (.TXT)](https://github.com/chooseaconduct/chooseaconduct.github.io/raw/master/minswan/CODE_OF_CONDUCT.txt)
+Downloads: [Text Version (.TXT)](https://github.com/chooseaconduct/chooseaconduct.github.io/raw/master/minswan/CODE_OF_CONDUCT.txt),
 [Markdown Version (.MD)](https://github.com/chooseaconduct/chooseaconduct.github.io/raw/master/minswan/CODE_OF_CONDUCT.md)
 
 
@@ -81,7 +83,8 @@ Do not do unto others as you would that they should do unto you. Their tastes ma
 Respect. No to racism.
 ```
 
-Inspired by [Respect - the European football association campaign](https://en.wikipedia.org/wiki/Respect_(UEFA_campaign)).
+---
+Notes: Inspired by [Respect - the European football association campaign](https://en.wikipedia.org/wiki/Respect_(UEFA_campaign)).
 
 
 ### Love
@@ -117,7 +120,9 @@ Make Love, Not War.
 How's my conducting?  Call 1-800-MENSCH
 ```
 
-Inspired by ["How's my driving"](https://en.wikipedia.org/wiki/%22How%27s_my_driving%3F%22_sign).
+
+---
+Notes: Inspired by ["How's my driving"](https://en.wikipedia.org/wiki/%22How%27s_my_driving%3F%22_sign).
 
 
 
