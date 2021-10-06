@@ -1,7 +1,7 @@
 # Case Studies of Code of Conduct "Cancel Culture" Out-Of-Control Power Abuse
 
 
-## Ruby - A Call for Tolerance On Ruby-Talk Results In Ban On Reddit Ruby
+## Ruby (October, 2021) - A Call for Tolerance On Ruby-Talk Results In Ban On Reddit Ruby
 
 
 Allow me to restate again I am not the original poster of the
