@@ -147,3 +147,9 @@ Or inspires you to write your own.
 Remember - Love (not fear) conquers all.
 Be the change you want to see in the world. Learn to forgive. Be a mensch (or try to.) Humanitas.
 
+
+
+## Case Studies of Code of Conduct "Cancel Culture" Out-Of-Control Power Abuse
+
+[Ruby (October, 2021) - A Call for Tolerance On Ruby-Talk Results In Ban On Reddit Ruby](https://github.com/chooseaconduct/chooseaconduct.github.io/blob/master/casestudies/ruby.md)
+
