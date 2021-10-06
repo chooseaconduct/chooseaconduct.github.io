@@ -10,7 +10,7 @@ Allow me to restate again I am not the original poster of the
 Now Richard Schneeman sends on r/ruby where I have myself
 self-censored because of an anti-crypto mob (the irony is that I am a
 crypto-critic - by the way - and try to educate with code examples the
-absurdity of it all and so on).
+absurdity of it all and so on) and haven't posted anything for weeks.
 
 Anyways, for the record let's post the message of the r/ruby ban:
 
@@ -22,12 +22,14 @@ Anyways, for the record let's post the message of the r/ruby ban:
 >
 > Yesterday I [Richard Schneeman] spoke with the mods on giving you a warning based on your
 > behavior on the Ruby mailing list. I believe you listened to my feedback and
-> stopped posting about crypto. So we decided to make explicit where we sit
->  regarding things that happen off of Reddit.
+> stopped posting about crypto. So we decided to **make explicit where we sit
+>  regarding things that happen off of Reddit**.
 >
-> Today I [Richard Schneeman] see you posting this 
+> Today I [Richard Schneeman] see you posting this [on the ruby-talk mailing list]
 > [Political thought - Leader on the threat from the illiberal left - Don't underestimate the danger of left-leaning identity politics.](https://rubytalk.org/t/political-thought-leader-on-the-threat-from-the-illiberal-left-don-t-underestimate-the-danger-of-left-leaning-identity-politics/75583) 
-> I see that someone said that a joke was harmful to them. I'm disgusted reading the joke. I'm frustrated for my community. I see my co-workers face sexist remarks, and I see them burning out and quitting the programming community. I need programming and especially Ruby, to be inclusive and welcoming. I need programmers not to intentionally post harmful and hateful content.
+> I see that someone said that a joke was harmful to them. I'm disgusted reading the joke [that has been posted by a ruby newbie]. 
+> I'm frustrated for my community. I see my co-workers face sexist remarks, and I see them burning out and quitting the programming community. 
+> I need programming and especially Ruby, to be inclusive and welcoming. I need programmers not to intentionally post harmful and hateful content.
 >
 > I see others have already warned you several times against this behavior.
 > It does not appear those warnings produced a meaningful
@@ -40,11 +42,15 @@ tolerance and for sure that is not negotiable.
 Anyways, not expecting any meaningful change from Richard
 Schneeman. To repost my answer for the record:
 
-If you follow / read the thread I am NOT the original poster of the
+If you follow / read the thread I am NOT - repeat with me - I am NOT the [original] poster of the
 joke. I am asking for tolerance. But reading your
 comments above it looks like you are on a "mission". You are targeting
 the wrong random nobody (and remember every action will have reactions
-and so on). And I thought you are acting in good faith. Helas.
+and so on). And I thought you are acting in good faith. Helas. 
+
+How can a posting about a joke (that I didn't post) on ruby-talk lead to a ban on r/ruby?      
+
+Yes, a clear case for out-of-control cancel culture power abuse.  
 
 ----
 
