@@ -59,7 +59,7 @@ The insanity of it all - here is the posting (not mine as stated before) from th
 >
 > Date.today +1 # no error, but wrong result!
 >
-> # Maybe this has been written for women, having calculated their age :wink:
+> \# Maybe this has been written for women, having calculated their age :wink:
 
 
 Yes, that's all the drama.
