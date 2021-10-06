@@ -27,7 +27,7 @@ Anyways, for the record let's post the message of the r/ruby ban:
 Editor's Note - I self-censored, that is, I deleted all last postings on r/ruby and stopped posting altogether for weeks now.
 I even archived more than a dozen postings at a new reddit - see [r/planetruby](https://old.reddit.com/r/planetruby/).
 
-> So we decided to **make explicit where we sit regarding things that happen off of r/ruby reddit**.
+> So we decided to make explicit where we sit **regarding things that happen off of r/ruby reddit**.
 >
 > Today I [Richard Schneeman] see you posting this [on the ruby-talk mailing list]
 > [Political thought - Leader on the threat from the illiberal left - Don't underestimate the danger of left-leaning identity politics.](https://rubytalk.org/t/political-thought-leader-on-the-threat-from-the-illiberal-left-don-t-underestimate-the-danger-of-left-leaning-identity-politics/75583) 
