@@ -21,9 +21,10 @@ Anyways, for the record let's post the message of the r/ruby ban:
 > Note from the moderators:
 >
 > Yesterday I [Richard Schneeman] spoke with the mods on giving you a warning based on your
-> behavior on the Ruby mailing list. I believe you listened to my feedback and
-> stopped posting about crypto. So we decided to **make explicit where we sit
->  regarding things that happen off of Reddit**.
+> behavior on the ruby-talk mailing list. I believe you listened to my feedback and
+> stopped posting about crypto.  
+> [Editor's Note - I self-censored, that is, I deleted all last postings on r/ruby and stopped posting altogether for weeks now.] 
+> So we decided to **make explicit where we sit regarding things that happen off of r/ruby reddit**.
 >
 > Today I [Richard Schneeman] see you posting this [on the ruby-talk mailing list]
 > [Political thought - Leader on the threat from the illiberal left - Don't underestimate the danger of left-leaning identity politics.](https://rubytalk.org/t/political-thought-leader-on-the-threat-from-the-illiberal-left-don-t-underestimate-the-danger-of-left-leaning-identity-politics/75583) 
@@ -31,7 +32,8 @@ Anyways, for the record let's post the message of the r/ruby ban:
 > I'm frustrated for my community. I see my co-workers face sexist remarks, and I see them burning out and quitting the programming community. 
 > I need programming and especially Ruby, to be inclusive and welcoming. I need programmers not to intentionally post harmful and hateful content.
 >
-> I see others have already warned you several times against this behavior.
+> I see others have already warned you several times against this behavior. 
+> [Editor's Note - Warning about what? About have a different opinion!? It's a debate / discussion. Learn to respect different opinions / view points.]
 > It does not appear those warnings produced a meaningful
 >  change in your behavior.
 >
