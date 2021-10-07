@@ -20,7 +20,8 @@ And to restate again and again I am not the poster of the
 (harmless) joke. I was asking for (more) tolerance.
 
 
-Anyways, for the record let's post the (private) message of the r/ruby ban sent by Richard Schneeman (the "lead" or "head" r/ruby Mod):
+Anyways, for the record let's post the "out-of-the-blue" (private) message 
+of the r/ruby ban sent by Richard Schneeman (the "lead" / "head" r/ruby Mod):
 
 > You have been permanently banned from participating in r/ruby.
 > You can still view and subscribe to r/ruby, but you won't be able
