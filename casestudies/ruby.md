@@ -10,15 +10,17 @@
 
 
 
-Allow me to restate again I am not the original poster of the
-(harmless) joke. I am asking for (more) tolerance.
-
-Now Richard Schneeman sends on r/ruby where I have myself
+Richard Schneeman sends on r/ruby where I have myself
 self-censored because of an anti-crypto mob (the irony is that I am a
 crypto-critic - by the way - and try to educate with code examples the
-absurdity of it all and so on) and haven't posted anything for weeks.
+absurdity of it all and so on) and haven't posted anything for weeks -
+yes, a permanent ban (because of a posting off / outside of r/ruby).
 
-Anyways, for the record let's post the message of the r/ruby ban:
+And to restate again and again I am not the poster of the
+(harmless) joke. I was asking for (more) tolerance.
+
+
+Anyways, for the record let's post the (private) message of the r/ruby ban sent by Richard Schneeman (the "lead" or "head" r/ruby Mod):
 
 > You have been permanently banned from participating in r/ruby.
 > You can still view and subscribe to r/ruby, but you won't be able
@@ -61,15 +63,24 @@ tolerance and for sure that is not negotiable.
 Anyways, not expecting any meaningful change from Richard
 Schneeman. To repost my answer for the record:
 
-If you follow / read the thread I am NOT - repeat with me - I am NOT the [original] poster of the
+If you read the thread I am NOT - repeat with me - I am NOT the poster of the
 joke. I am asking for tolerance. But reading your
-comments above it looks like you are on a "mission". You are targeting
+comments above it looks like you are - sorry to say - an extreme illiberal fanatic leftie on a "mission". You are targeting
 the wrong random nobody (and remember every action will have reactions
-and so on). And I thought you are acting in good faith. Helas. 
+and so on). And I thought you are acting in good faith (when looking into how some haters game the r/ruby reddit 
+with downvotes and flaggin all post as spam and so on). Helas. 
 
 How can a posting about a joke (that I didn't post) on ruby-talk lead to a ban on r/ruby?      
 
-Yes, a clear case for out-of-control cancel culture power abuse.  
+Yes, a clear case for out-of-control cancel culture power abuse.   
+
+Yes, I undestand - you, that is, Richard Schneeman  want to "signal" to your friends and co-workers how ultra / extreme leftie and righteous 
+you are. 
+
+Now - put youself in my shoes - you see - taking the "unpopular" side and asking for more tolerance 
+and standing up to the call-out about basically nothing (see the "joke" below) - how does that make you look
+to your friends and co-worker, eh?  
+
 
 ----
 
