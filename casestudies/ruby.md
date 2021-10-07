@@ -66,10 +66,10 @@ Schneeman. To repost my answer for the record:
 
 If you read the thread I am NOT - repeat with me - I am NOT the poster of the
 joke. I am asking for tolerance. But reading your
-comments above it looks like you are - sorry to say - an extreme illiberal fanatic leftie on a "mission". You are targeting
+comments above it looks like you are [- sorry to say - an extreme illiberal fanatic leftie] on a "mission". You are targeting
 the wrong random nobody (and remember every action will have reactions
-and so on). And I thought you are acting in good faith (when looking into how some haters game the r/ruby reddit 
-with downvotes and flaggin all post as spam and so on). Helas. 
+and so on). And I thought you are acting in good faith [(when looking into how some haters game the r/ruby reddit 
+with downvotes and flagging all post of targets as spam and so on)]. Helas. 
 
 How can a posting about a joke (that I didn't post) on ruby-talk lead to a ban on r/ruby?      
 
