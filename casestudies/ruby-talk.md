@@ -94,8 +94,7 @@ And the answers by the ruby authorities:
 >>  on the ruby-talk mailing list - with the comment that they are welcome back  
 >>  when the stop posting the nazi propaganda about ukraine. 
 >>   
->>  PS: See [**
-Glory To Ukraine! Fuck (Vladimir) Putin! Stop the War! Punk Special Edition - How-To Send A Stop The War Message To The World With Your Profile Picture**](https://rubytalk.org/t/glory-to-ukraine-fuck-vladimir-putin-stop-the-war-punk-special-edition-how-to-send-a-stop-the-war-message-to-the-world-with-your-profile-picture/75833/21)]   
+>>  PS: See [**Glory To Ukraine! Fuck (Vladimir) Putin! Stop the War! Punk Special Edition - How-To Send A Stop The War Message To The World With Your Profile Picture »**](https://rubytalk.org/t/glory-to-ukraine-fuck-vladimir-putin-stop-the-war-punk-special-edition-how-to-send-a-stop-the-war-message-to-the-world-with-your-profile-picture/75833/21)]   
 >
 >
 >  
