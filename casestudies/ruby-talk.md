@@ -35,8 +35,7 @@ reads:
 > Hello,
 >
 >  It's unfortunate that I have to write this and I have to even fear
->  
-> to get banned for life or whatever here too.
+>  to get banned for life or whatever here too [on ruby-talk].
 >
 >  Anyways, due to a private email I got today about a ruby reddit ban
 >  (twice! incl. the banned person humbly 
