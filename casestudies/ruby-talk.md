@@ -25,6 +25,5 @@
 >>  -- Alice
 
 
-Read the full thread [**
-A Welcoming Ruby Community - Calling for A No-Ban Policy - Use A Two/Three Week Suspension For Cool Off Instead  »**](https://rubytalk.org/t/a-welcoming-ruby-community-calling-for-a-no-ban-policy-use-a-two-three-week-suspension-for-cool-off-instead/76032)
+Read the full thread [**A Welcoming Ruby Community - Calling for A No-Ban Policy - Use A Two/Three Week Suspension For Cool Off Instead  »**](https://rubytalk.org/t/a-welcoming-ruby-community-calling-for-a-no-ban-policy-use-a-two-three-week-suspension-for-cool-off-instead/76032)
 
