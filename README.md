@@ -153,3 +153,4 @@ Be the change you want to see in the world. Learn to forgive. Be a mensch (or tr
 
 [Ruby (October, 2021) - A Call for Tolerance On Ruby-Talk Results In Ban On Reddit Ruby](https://github.com/chooseaconduct/chooseaconduct.github.io/blob/master/casestudies/ruby.md)
 
+[Ruby (August, 2022) - A Call for More Tolerance And Call For No-Ban Policy Results In Ban On Ruby-Talk (With No Reason Given)](https://github.com/chooseaconduct/chooseaconduct.github.io/blob/master/casestudies/ruby-talk.md)
