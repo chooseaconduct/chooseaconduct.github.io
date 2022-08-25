@@ -1,7 +1,7 @@
 # Case Studies of Code of Conduct "Cancel Culture" Out-Of-Control Power Abuse
 
 
-**Update (August, 2022) -  A Call for More Tolerance And Call For No-Ban Policy Results In Ban On Ruby-Talk (With No Reason Given)
+**Update (August, 2022) -  A Call for More Tolerance And Call For No-Ban Policy Results In Ban On Ruby-Talk (With No Reason Given)**
 
 
 >  I just banned gerald.bauer@gmail.com.
