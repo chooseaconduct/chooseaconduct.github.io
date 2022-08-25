@@ -95,6 +95,13 @@ And the answers by the ruby authorities:
 >>  when they stop posting the nazi propaganda about ukraine. 
 >>   
 >>  PS: See [**Glory To Ukraine! Fuck (Vladimir) Putin! Stop the War! Punk Special Edition - How-To Send A Stop The War Message To The World With Your Profile Picture »**](https://rubytalk.org/t/glory-to-ukraine-fuck-vladimir-putin-stop-the-war-punk-special-edition-how-to-send-a-stop-the-war-message-to-the-world-with-your-profile-picture/75833) 
+>>>  
+>>>  To quote Wolf in the thread:
+>>>    Geez, I've never expected Russian propaganda to be so strong on this
+mailing list. For the record, Russia has stolen Crimea, then they
+deployed their own unmarked troops into Eastern Ukraine to help with
+insurrection there and now [the dictator Vladimir] Putin is coming for the rest of the country
+killing lot of civilians. Russia is the evil one here and it's fine to say so.
 >
 >
 >  
