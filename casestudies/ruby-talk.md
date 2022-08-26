@@ -126,3 +126,31 @@ with a lead-in about ruby-talk.
 
 
 
+Note - after sending this post with a carbon copy to Opti - he sent back this private email 
+
+> I sent two mails to the listadmin (is it SHIBATA Hiroshi?) asking 1)
+> why exactly I was banned,
+> and 2) not Austin Ziegler, but didn't get any answer.
+>  At least it is
+> necessary to get a warning before getting banned.
+>  Also a limited banning
+> is sufficient, giving another chance...
+>
+> Maybe you could forward this to the mailinglist --  I think a
+> listadmin at least has to respond to an email sent to him.
+>  My conclusion: the list-admin is not acting as he should.
+>   Perhaps we shall vote for another admin? (How many posts has he contributed? Are they
+useful, is he helpful?)  
+>
+> 2nd: Why is Austin Ziegler NOT banned?
+> His last mail from TODAY:
+>
+>> There is welcoming, and then there's letting the assholes
+>> set the tone of your discourse because they enjoy abusing your goodwill.
+>
+> WE DON'T WANT SUCH WORDS IN THE LIST! - NOW I'M OUT OF THE LIST
+> (BANNED), and he CAN'T STOP OFFENDING...
+
+
+Anyways,  as documented I am now banned too without notice & reason and no official answer only cheering ons of the mods (that is, really only SHIBATA Hiroshi)  who it looks MUST admin the mailing list as a chore - for sure no fun - and SHIBATA Hiroshi hasn't posted anything himself for years (other than threats and you are banned).   
+
